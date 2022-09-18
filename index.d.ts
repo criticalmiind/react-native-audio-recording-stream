@@ -1,4 +1,4 @@
-declare module "react-native-audio-record" {
+declare module "react-native-audio-recording-stream" {
   export interface IAudioRecord {
     init: (options: Options) => void
     start: () => void

@@ -1,32 +1,32 @@
 {
-  "_from": "react-native-audio-record@^0.2.2",
-  "_id": "react-native-audio-record@0.2.2",
+  "_from": "react-native-audio-recording-stream@^1.0.0",
+  "_id": "react-native-audio-recording-stream@1.0.0",
   "_inBundle": false,
   "_integrity": "sha512-+JEY3AWz21xylePbXZ81DLHcqU5oJYztn3Uel3ay53P3ZrvJlwfmOmyOuoavA9boPV1O0dLLQIu9gC7xbKwNvQ==",
-  "_location": "/react-native-audio-record",
+  "_location": "/react-native-audio-recording-stream",
   "_phantomChildren": {},
   "_requested": {
     "type": "range",
     "registry": true,
-    "raw": "react-native-audio-record@^0.2.2",
-    "name": "react-native-audio-record",
-    "escapedName": "react-native-audio-record",
-    "rawSpec": "^0.2.2",
+    "raw": "react-native-audio-recording-stream@^1.0.0",
+    "name": "react-native-audio-recording-stream",
+    "escapedName": "react-native-audio-recording-stream",
+    "rawSpec": "^1.0.0",
     "saveSpec": null,
-    "fetchSpec": "^0.2.2"
+    "fetchSpec": "^1.0.0"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/react-native-audio-record/-/react-native-audio-record-0.2.2.tgz",
+  "_resolved": "https://registry.npmjs.org/react-native-audio-recording-stream/-/react-native-audio-recording-stream-1.0.0.tgz",
   "_shasum": "9cbb0ddd3cbdd18f5edfabae812c0bc9c680e928",
-  "_spec": "react-native-audio-record@^0.2.2",
+  "_spec": "react-native-audio-recording-stream@^1.0.0",
   "_where": "/Users/apple-pentester/Desktop/CarParking/EKhidmatMarkaz",
   "author": {
     "name": "Vinay"
   },
   "bugs": {
-    "url": "https://github.com/goodatlas/react-native-audio-record/issues"
+    "url": "https://github.com/criticalmiind/react-native-audio-recording-stream/issues"
   },
   "bundleDependencies": false,
   "deprecated": false,
@@ -37,7 +37,7 @@
     "eslint-plugin-prettier": "^2.6.0",
     "prettier": "^1.12.0"
   },
-  "homepage": "https://github.com/goodatlas/react-native-audio-record#readme",
+  "homepage": "https://github.com/criticalmiind/react-native-audio-recording-stream#readme",
   "keywords": [
     "react-native",
     "audio",
@@ -45,13 +45,13 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "name": "react-native-audio-record",
+  "name": "react-native-audio-recording-stream",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goodatlas/react-native-audio-record.git"
+    "url": "git+https://github.com/criticalmiind/react-native-audio-recording-stream.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.2.2"
+  "version": "1.0.0"
 }

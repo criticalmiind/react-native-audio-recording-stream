@@ -1,23 +1,24 @@
 
-# react-native-audio-record
+# react-native-audio-recording-stream
 Audio record buffers for iOS and Android.
 
 ## Install
 ```
-yarn add react-native-audio-record
-react-native link react-native-audio-record
+yarn add react-native-audio-recording-stream
+react-native link react-native-audio-recording-stream
 ```
 
 ## Usage
 ```js
-import AudioRecord from 'react-native-audio-record';
+import AudioRecord from 'react-native-audio-recording-stream';
 
 const options = {
   sampleRate: 16000,  // default 44100
   channels: 1,        // 1 or 2, default 1
   bitsPerSample: 16,  // 8 or 16, default 16
   audioSource: 6,     // android only (see below)
-  wavFile: 'test.wav' // default 'audio.wav'
+  wavFile: 'test.wav', // default 'audio.wav'
+  chunkSize: 4096, //8192
 };
 
 AudioRecord.init(options);

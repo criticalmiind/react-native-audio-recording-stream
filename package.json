@@ -1,0 +1,57 @@
+{
+  "_from": "react-native-audio-record@^0.2.2",
+  "_id": "react-native-audio-record@0.2.2",
+  "_inBundle": false,
+  "_integrity": "sha512-+JEY3AWz21xylePbXZ81DLHcqU5oJYztn3Uel3ay53P3ZrvJlwfmOmyOuoavA9boPV1O0dLLQIu9gC7xbKwNvQ==",
+  "_location": "/react-native-audio-record",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "react-native-audio-record@^0.2.2",
+    "name": "react-native-audio-record",
+    "escapedName": "react-native-audio-record",
+    "rawSpec": "^0.2.2",
+    "saveSpec": null,
+    "fetchSpec": "^0.2.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-audio-record/-/react-native-audio-record-0.2.2.tgz",
+  "_shasum": "9cbb0ddd3cbdd18f5edfabae812c0bc9c680e928",
+  "_spec": "react-native-audio-record@^0.2.2",
+  "_where": "/Users/apple-pentester/Desktop/CarParking/EKhidmatMarkaz",
+  "author": {
+    "name": "Vinay"
+  },
+  "bugs": {
+    "url": "https://github.com/goodatlas/react-native-audio-record/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Audio record buffers for React Native",
+  "devDependencies": {
+    "babel-eslint": "^8.2.3",
+    "eslint": "^4.19.1",
+    "eslint-plugin-prettier": "^2.6.0",
+    "prettier": "^1.12.0"
+  },
+  "homepage": "https://github.com/goodatlas/react-native-audio-record#readme",
+  "keywords": [
+    "react-native",
+    "audio",
+    "record"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-audio-record",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goodatlas/react-native-audio-record.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.2.2"
+}

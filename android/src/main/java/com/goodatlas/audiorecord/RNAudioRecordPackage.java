@@ -1,4 +1,4 @@
-package com.goodatlas.audiorecord;
+package com.criticalmiind.audiorecord;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.NativeModule;

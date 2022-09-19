@@ -4,7 +4,7 @@
     "type": "AAPT_FRIENDLY_MERGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.goodatlas.audiorecord",
+  "applicationId": "com.criticalmiind.audiorecord",
   "variantName": "release",
   "elements": [
     {

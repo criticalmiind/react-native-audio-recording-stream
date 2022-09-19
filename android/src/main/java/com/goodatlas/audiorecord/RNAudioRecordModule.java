@@ -1,4 +1,4 @@
-package com.goodatlas.audiorecord;
+package com.criticalmiind.audiorecord;
 
 import android.media.AudioFormat;
 import android.media.AudioRecord;
